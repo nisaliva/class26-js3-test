@@ -35,7 +35,7 @@ Welcome to the final JavaScript test!
 1. **Read** the task description carefully
 2. **Divide** the task in small, functional steps and then execute each step
 3. If you feel stuck **move on** to the next task
-4. You are **not allowed to use Google**
+4. You are **allowed to use Google**
 5. TEST YOUR CODE BEFORE YOU SUBMIT IT!
 6. **Keep calm**
 
